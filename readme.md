@@ -14,3 +14,14 @@
 - Chat History
 - Message Storage
 - Ai with internet reasearch feature 
+
+
+# Generative AI
+- means content generate karna :-
+{
+    audio
+    video
+    image
+    text
+    code
+}
